@@ -45,3 +45,7 @@ python weather.py
 ## Named failures
 
 Errors have plain-English names so you can find the cause fast: `MISSING_KEY`, `BAD_REQUEST`, `RATE_LIMITED_OR_NO_CREDIT`, `UNREACHABLE`, `TOOL_NOT_FOUND`, `BAD_TOOL_ARGUMENTS`, `CITY_NOT_FOUND`, `WEATHER_UNREACHABLE` and `WEATHER_BAD_ANSWER`.
+
+## License
+
+Original project code and documentation are licensed under the [MIT License](LICENSE). This license does not relicense third-party incident reports, datasets, or other third-party material. Those materials remain subject to their original rights and terms; existing source links and attributions are retained.
